@@ -1,0 +1,10 @@
+    10100
+x  -1+1-1+1-1
+---------------
+0000001100   <--Intermediate # 1
+111110100   <--Intermediate # 2
+00001100   <--Intermediate # 3
+1110100   <--Intermediate # 4
+001100   <--Intermediate # 5
+---------------
+0010000100  <--Result
